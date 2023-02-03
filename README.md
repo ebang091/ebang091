@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ### - 💬 My blog
 <div align="center">
 
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://www.ebang.tistory.com)](https://www.ebang.tistory.com)<br>
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://www.ebang.tistory.com)](www.ebang.tistory.com)<br>
 	
 </div>
 
