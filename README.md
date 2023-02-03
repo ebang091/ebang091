@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 
 ### - 📫 How to reach me:
 <div align="center">
-dskhe8@gmail.com	<br>
-[blog](http://www.ebang.tistory.com)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dskhe8@gmail.com)](mailto:dskhe8@gmail.com)<br>
+[![tistory badge](https://img.shields.io/badge/Tistory-d14836?style=flat-square&logo=Tistory&logoColor=white&link=https://www.ebang.tistory.com)]<br>
 </div>
 
