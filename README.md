@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 
-# - 🌱 I’m currently learning...
+# - 🌱 I’m currently learning
 <div align="center">
 	<br>
 </div>
@@ -46,3 +46,7 @@ Here are some ideas to get you started:
 </div>
 
 
+# - 📫 How to reach me:
+<div align="center">
+dskhe8@gmail.com	<br>
+</div>
