@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 # - 📫 How to reach me:
 <div align="center">
 dskhe8@gmail.com	<br>
+[blog](ebang.tistory.com)
 </div>
+
