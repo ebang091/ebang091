@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 [![ebang's 42 stats](https://badge42.vercel.app/api/v2/cldoh8jyx00440glcmxryvfic/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 <br>
 <div align="center">
-
+**
+#- 🌱 I’m currently learning **...
 <span style="color:red">**Languages**</span>
 	<br>
 </div>
