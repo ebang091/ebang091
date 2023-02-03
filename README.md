@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudgkgl)](https://solved.ac/dkssudgkgl/)
+[![ebang's 42 stats](https://badge42.vercel.app/api/v2/cldoh8jyx00440glcmxryvfic/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
