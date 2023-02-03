@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
+
 </div>
 
 [![ebang's 42 stats](https://badge42.vercel.app/api/v2/cldoh8jyx00440glcmxryvfic/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
