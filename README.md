@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 
-	<strong>Languages </strong>
+**Languages**
+	<br>
 </div>
 
 <div align="center">
