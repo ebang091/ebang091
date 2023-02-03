@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 
-**Languages**
+<span style="color:red">**Languages**</span>
 	<br>
 </div>
 
