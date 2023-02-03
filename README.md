@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # - 🌱 I’m currently learning...
 <div align="center">
-<span style="color:red">**Languages**</span>
+**Languages**
 	<br>
 </div>
 
