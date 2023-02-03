@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dskhe8@gmail.com)](mailto:dskhe8@gmail.com)<br>
-[![tistory badge](https://img.shields.io/badge/Tistory-d14836?style=flat-square&logo=Tistory&logoColor=white&link=https://www.ebang.tistory.com)]<br>
+[![tistory badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://www.ebang.tistory.com)]<br>
 </div>
 
