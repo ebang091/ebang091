@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 **
-#- 🌱 I’m currently learning **...
+# - 🌱 I’m currently learning **...
 <span style="color:red">**Languages**</span>
 	<br>
 </div>
