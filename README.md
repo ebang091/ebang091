@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudgkgl)](https://solved.ac/dkssudgkgl/)
 <br>
-<img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=Seoul&logoColor=white" />
+<img src="https://img.shields.io/badge/Seoul-000000?style=for-the-badge&logo=42&logoColor=white" />
 <br>
 [![ebang's 42 stats](https://badge42.vercel.app/api/v2/cldoh8jyx00440glcmxryvfic/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
