@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dskhe8@gmail.com)](mailto:dskhe8@gmail.com)<br>
 
 </div>
+
 ### - 💬 My blog
 
-[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://www.ebang.tistory.com)]<br>
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://www.ebang.tistory.com)](https://www.ebang.tistory.com)<br>
