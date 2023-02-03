@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 	<strong>Languages </strong>
-	</div>
+</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
