@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### - 🔭 I’m currently working on <br>
+## - 🔭 I’m currently working on <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkssudgkgl)](https://solved.ac/dkssudgkgl/)
 <br>
@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 </div>
 
 
-### - 📫 How to reach me:
+## - 📫 How to reach me:
 <div align="center">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dskhe8@gmail.com)](mailto:dskhe8@gmail.com)<br>
 
 </div>
 
-### - 💬 My blog
+## - 💬 My blog
 <div align="center">
 
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://www.ebang.tistory.com)](https://ebang.tistory.com/)<br>
