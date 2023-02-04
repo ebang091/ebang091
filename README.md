@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 
 
-### - 🌱 I’m currently learning
+## - 🌱 I’m currently learning
 <div align="center">
 	<br>
 </div>
