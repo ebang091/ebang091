@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 [![ebang's 42 stats](https://badge42.vercel.app/api/v2/cldoh8jyx00440glcmxryvfic/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 <br>
+### want to know what 42 is?  <br>
+visit : https://www.youtube.com/c/42thenetwork
 
 
 ## - 🌱 I’m currently learning
@@ -45,13 +47,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white" />
 
 </div>
-## - 🌱I belong to:
-## 
 
-<div align="center">
-	<img src="https://img.shields.io/badge/Seoul-000000?style=for-the-badge&logo=42&logoColor=white" /> <br>
-	want to know what 42 is? : https://www.youtube.com/c/42thenetwork
-</div>
 
 ## - 📫 How to reach me:
 
