@@ -45,8 +45,11 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white" />
 
 </div>
-
-
+## - I belong to:
+<div align="center">
+	<img src="https://img.shields.io/badge/Seoul-000000?style=for-the-badge&logo=42&logoColor=white" />
+	want to know what 42 is? : https://www.youtube.com/c/42thenetwork
+</div>
 ## - 📫 How to reach me:
 <div align="center">
 
