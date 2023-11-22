@@ -10,8 +10,8 @@
 ### Projects
 |Project | summary| link|skills|
 |---|---|---|---|
-|PongMates|실시간 채팅 - 게임 웹 서비스|https://github.com/42Seoul-LastDance|![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=#E0234E) ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white) ![React](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-|Cherrypicker|'좋아요-싫어요' 스와이프를 통한 음식점 추천 서비스|https://github.com/CherryPick3r|![React](https://img.shields.io/badge/java_spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|
+|PongMates|실시간 채팅 - 게임 웹 서비스|[Pongmates](https://github.com/42Seoul-LastDance)|![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=#E0234E) ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white) ![React](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+|Cherrypicker|'좋아요-싫어요' 스와이프를 통한 음식점 추천 서비스|[Cherrypicker](https://github.com/CherryPick3r)|![React](https://img.shields.io/badge/java_spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|
 
 
 ### Opensource contribute
