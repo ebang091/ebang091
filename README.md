@@ -17,7 +17,7 @@
 ## Opensource contribute
 |PR|Summary|
 |---|---|
-|[#422](https://github.com/julien-duponchelle/python-mysql-replication/pull/422)|implement nonexisted maraiaDBevent|
+|[#422](https://github.com/julien-duponchelle/python-mysql-replication/pull/422)|implement not existed maraiaDBevent|
 |[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|modify docstring for document|
 <br/>
 
