@@ -1,7 +1,7 @@
 # Hi!👋🏻  I'm ebang, a developer in South Korea.
 
 -  🌱 I'm currently learning Java and AWS.
-- 📮 How to reach me : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dskhe8@gmail.com)](mailto:dskhe8@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bang-eunjung-5a5695283/)
+- 📮 How to reach me : ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dskhe8@gmail.com)](mailto:dskhe8@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bang-eunjung-5a5695283/)
 
 
 ![ebang091's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebang091&show_icons=true&bg_color=EBB8DD&title_color=BE398D)
