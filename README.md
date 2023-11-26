@@ -21,6 +21,7 @@
 |---|---|
 |[#422](https://github.com/julien-duponchelle/python-mysql-replication/pull/422)|implement not existed maraiaDBevent|
 |[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|modify docstring for document|
+|[#ISSUE 445](https://github.com/julien-duponchelle/python-mysql-replication/issues/445)|increase performance|
 <br/>
 
 ## Education & Programs
