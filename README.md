@@ -14,7 +14,7 @@
 |Cherrypicker|'좋아요-싫어요' 스와이프를 통한 음식점 추천 서비스|[Cherrypicker](https://github.com/CherryPick3r)|![React](https://img.shields.io/badge/java_spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|
 <br/>
 
-## Opensource contribute
+## Opensource contributions
 ### Python-Mysql-Replication 
 [github Repository](https://github.com/julien-duponchelle/python-mysql-replication)
 |PR|Summary|
