@@ -17,11 +17,11 @@
 ## Opensource contributions
 ### Python-Mysql-Replication 
 [github Repository](https://github.com/julien-duponchelle/python-mysql-replication)
-|PR|Summary|
+|PR or Issue|Summary|
 |---|---|
 |[#422](https://github.com/julien-duponchelle/python-mysql-replication/pull/422)|implement not existed maraiaDBevent|
 |[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|modify docstring for document|
-|[#ISSUE 445](https://github.com/julien-duponchelle/python-mysql-replication/issues/445)|increase performance|
+|[#445](https://github.com/julien-duponchelle/python-mysql-replication/issues/445)|increase performance|
 <br/>
 
 ## Education & Programs
