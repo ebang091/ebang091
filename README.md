@@ -26,7 +26,9 @@
 <br/>
 
 ### Results
-Awards: [정보통신산업진흥원장상](https://www.oss.kr/notice/show/53ba6af3-867d-45ad-a31c-ba576c4f1855)
+### Awards
+
+[정보통신산업진흥원장상](https://www.oss.kr/notice/show/53ba6af3-867d-45ad-a31c-ba576c4f1855)
 
 
 ## Education & Programs
