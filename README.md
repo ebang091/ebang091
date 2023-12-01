@@ -17,15 +17,15 @@
 ## Opensource contributions
 ### Python-Mysql-Replication 
 [github Repository](https://github.com/julien-duponchelle/python-mysql-replication)
+### awards
+[정보통신산업진흥원장상](https://www.oss.kr/notice/show/53ba6af3-867d-45ad-a31c-ba576c4f1855)
+
 |PR or Issue|Summary|
 |---|---|
 |[#422](https://github.com/julien-duponchelle/python-mysql-replication/pull/422)|implement not existed maraiaDBevent|
 |[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|modify docstring for document|
 |[#445](https://github.com/julien-duponchelle/python-mysql-replication/issues/445)|increase performance|
 <br/>
-### awards
-
-[정보통신산업진흥원장상](https://www.oss.kr/notice/show/53ba6af3-867d-45ad-a31c-ba576c4f1855)
 
 ## Education & Programs
 
