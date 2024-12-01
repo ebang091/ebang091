@@ -6,6 +6,7 @@
 
 ![ebang091's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebang091&show_icons=true&bg_color=EBB8DD&title_color=BE398D)
 
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=ebang091)](https://github.com/marshallku/gitgarden)
 
 ### Projects
 |Project | summary| link|skills|
